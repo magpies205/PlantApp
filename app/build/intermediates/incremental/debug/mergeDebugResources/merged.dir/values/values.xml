@@ -1727,11 +1727,9 @@
     <string name="submit">Submit Order</string>
     <string name="submit_order">Order Submitted!</string>
     <string name="subtotal">Subtotal: %s</string>
-    <string name="tax">Tax: %s</string>
     <string name="tile_start_order">Order</string>
     <string name="title_accompaniment_menu">Donation</string>
     <string name="title_checkout">Checkout</string>
-    <string name="title_coupons">Coupons</string>
     <string name="title_entree_menu">Plants</string>
     <string name="title_side_menu">Delivery</string>
     <string name="total">Total: %s</string>

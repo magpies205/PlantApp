@@ -3476,11 +3476,9 @@ string status_bar_notification_info_overflow
 string submit
 string submit_order
 string subtotal
-string tax
 string tile_start_order
 string title_accompaniment_menu
 string title_checkout
-string title_coupons
 string title_entree_menu
 string title_side_menu
 string total

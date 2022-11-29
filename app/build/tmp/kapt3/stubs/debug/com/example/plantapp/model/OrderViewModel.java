@@ -50,29 +50,17 @@ public final class OrderViewModel extends androidx.lifecycle.ViewModel {
         return null;
     }
     
-    /**
-     * Set the entree for the order.
-     */
     public final void setPlant(@org.jetbrains.annotations.NotNull()
     java.lang.String plant) {
     }
     
-    /**
-     * Set the side for the order.
-     */
     public final void setDelivery(@org.jetbrains.annotations.NotNull()
     java.lang.String delivery) {
     }
     
-    /**
-     * Update subtotal value.
-     */
     private final void updateSubtotal(double itemPrice) {
     }
     
-    /**
-     * Reset all values pertaining to the order.
-     */
     public final void resetOrder() {
     }
 }

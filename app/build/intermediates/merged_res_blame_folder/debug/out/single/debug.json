@@ -1,5 +1,45 @@
 [
     {
+        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/layout_fragment_delivery_order.xml.flat",
+        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/layout/fragment_delivery_order.xml"
+    },
+    {
+        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.plantapp-merged_res-47:/layout_fragment_checkout.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_moss.jpeg.flat",
+        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/moss.jpeg"
+    },
+    {
+        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.plantapp-merged_res-47:/layout_fragment_delivery_order.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/fragment_delivery_order.xml"
+    },
+    {
+        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_javafern.jpeg.flat",
+        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/javafern.jpeg"
+    },
+    {
+        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/layout_fragment_checkout.xml.flat",
+        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_ic_baseline_local_shipping_24.xml.flat",
+        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/ic_baseline_local_shipping_24.xml"
+    },
+    {
         "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_ic_launcher_background.xml.flat",
         "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/ic_launcher_background.xml"
     },
@@ -20,36 +60,20 @@
         "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/grass.jpeg"
     },
     {
-        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/layout_fragment_delivery_order.xml.flat",
-        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/layout/fragment_delivery_order.xml"
-    },
-    {
-        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
         "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_frog.jpg.flat",
         "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/frog.jpg"
-    },
-    {
-        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_moss.jpeg.flat",
-        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/moss.jpeg"
     },
     {
         "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_amazonsword.jpeg.flat",
         "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/amazonsword.jpeg"
     },
     {
-        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/ic_launcher_foreground.xml"
-    },
-    {
         "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/layout_fragment_plant_order.xml.flat",
         "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/layout/fragment_plant_order.xml"
     },
     {
-        "merged": "com.example.plantapp-merged_res-47:/layout_fragment_delivery_order.xml.flat",
-        "source": "com.example.plantapp-main-49:/layout/fragment_delivery_order.xml"
+        "merged": "com.example.plantapp-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/activity_main.xml"
     },
     {
         "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_ic_dashboard_black_24dp.xml.flat",
@@ -64,14 +88,6 @@
         "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/navigation_mobile_navigation.xml.flat",
-        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/navigation/mobile_navigation.xml"
-    },
-    {
-        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_javafern.jpeg.flat",
-        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/javafern.jpeg"
-    },
-    {
         "merged": "com.example.plantapp-merged_res-47:/layout_fragment_plant_order.xml.flat",
         "source": "com.example.plantapp-main-49:/layout/fragment_plant_order.xml"
     },
@@ -82,13 +98,5 @@
     {
         "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_anubiusnana.jpeg.flat",
         "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/anubiusnana.jpeg"
-    },
-    {
-        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/layout_fragment_checkout.xml.flat",
-        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/layout/fragment_checkout.xml"
-    },
-    {
-        "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-merged_res-47:/drawable_ic_baseline_local_shipping_24.xml.flat",
-        "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/drawable/ic_baseline_local_shipping_24.xml"
     }
 ]

@@ -33,7 +33,6 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"/>
 
-            <!-- TODO: display the entree name based on the entree selection -->
             <TextView
                 android:id="@+id/plant_selection"
                 style="@style/Widget.PlantApp.TextView.CheckoutItem.Info"
@@ -51,7 +50,6 @@
                 tools:text="$7.00"
                 android:text="@{viewModel.plant.formattedPrice}"/>
 
-            <!-- TODO: display the side name based on the side selection -->
             <TextView
                 android:id="@+id/delivery_selection"
                 style="@style/Widget.PlantApp.TextView.CheckoutItem.Info"
@@ -60,7 +58,6 @@
                 tools:text="One Day"
                 android:text="@{viewModel.delivery.name}"/>
 
-            <!-- TODO: display the side price based on the side selection -->
             <TextView
                 android:id="@+id/delivery_price"
                 style="@style/Widget.PlantApp.TextView.CheckoutItem.Info"
@@ -69,9 +66,6 @@
                 tools:text="$2.00"
                 android:text="@{viewModel.delivery.formattedPrice}"/>
 
-            <!-- TODO: display the accompaniment name based on the accompaniment selection -->
-
-            <!-- TODO: display the accompaniment price based on the accompaniment selection -->
 
             <View
                 android:id="@+id/divider"
@@ -81,7 +75,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/delivery_price" />
 
-            <!-- TODO: set the text to the current subtotal value from the view model -->
+
             <TextView
                 android:id="@+id/subtotal"
                 style="@style/Widget.PlantApp.TextView.Subtotal"
@@ -90,10 +84,6 @@
                 tools:text="Subtotal: $10.00"
                 android:text="@{@string/subtotal(viewModel.subtotal)}"/>
 
-            <!-- TODO: set the text to the current tax value from the view model -->
-
-
-            <!-- TODO: set the text to the current total value from the view model -->
             <TextView
                 android:id="@+id/total"
                 android:layout_width="wrap_content"
@@ -104,7 +94,6 @@
                 tools:text="Total: $10.73"
                 android:text="@{@string/total(viewModel.total)}"/>
 
-            <!-- TODO: submit the order when clicked -->
             <Button
                 android:id="@+id/submit_button"
                 android:layout_width="match_parent"
@@ -116,7 +105,6 @@
                 app:layout_constraintTop_toBottomOf="@id/total"
                 android:onClick="@{() -> checkoutFragment.submitOrder()}"/>
 
-            <!-- TODO: cancel the order when clicked -->
 
             <Button
                 android:id="@+id/cancel_button"

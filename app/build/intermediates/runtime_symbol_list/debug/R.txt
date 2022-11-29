@@ -3475,11 +3475,9 @@ int string status_bar_notification_info_overflow 0x7f100081
 int string submit 0x7f100082
 int string submit_order 0x7f100083
 int string subtotal 0x7f100084
-int string tax 0x7f100085
 int string tile_start_order 0x7f100086
 int string title_accompaniment_menu 0x7f100087
 int string title_checkout 0x7f100088
-int string title_coupons 0x7f100089
 int string title_entree_menu 0x7f10008a
 int string title_side_menu 0x7f10008b
 int string total 0x7f10008c

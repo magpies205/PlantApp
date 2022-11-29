@@ -4,6 +4,10 @@
         "source": "com.example.plantapp-main-49:/layout/fragment_plant_order.xml"
     },
     {
+        "merged": "com.example.plantapp-mergeDebugResources-46:/layout/fragment_checkout.xml",
+        "source": "com.example.plantapp-main-49:/layout/fragment_checkout.xml"
+    },
+    {
         "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-mergeDebugResources-46:/layout/fragment_delivery_order.xml",
         "source": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-main-49:/layout/fragment_delivery_order.xml"
     },
@@ -14,6 +18,10 @@
     {
         "merged": "com.example.plantapp-mergeDebugResources-46:/layout/fragment_delivery_order.xml",
         "source": "com.example.plantapp-main-49:/layout/fragment_delivery_order.xml"
+    },
+    {
+        "merged": "com.example.plantapp-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.example.plantapp-main-49:/layout/activity_main.xml"
     },
     {
         "merged": "/Users/meganarchibald/.gradle/daemon/7.4.2/com.example.plantapp-mergeDebugResources-46:/layout/activity_main.xml",
